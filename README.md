@@ -1,4 +1,4 @@
-# data-science-portfolio
+# Data Science Portfolio
 This repository showcases my Data Science portfolio, illustrating the detailed analysis of multiple datasets. I use Python to provide accurate insights and deep understanding, aiming to provide meaningful results. #learning #datascience #hobby
 
 - Data Analysis and Visualisation :
