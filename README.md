@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository showcases my Data Science portfolio, illustrating the detailed analysis of multiple datasets. I use Python to provide accurate insights and deep understanding, aiming to provide meaningful results. #learning #datascience #hobby
+This repository is my Data Science portfolio, illustrating the detailed analysis of multiple datasets. I'm Looking for Work.
 
 - Data Analysis and Visualisation :
  -  [Ukraine Financial Aid & Commitments Mai 2024 (Russia-Ukraine War)](https://github.com/V-Gr/data-science-portfolio/blob/main/EDA/Ukraine%20Financial%20Aid%202024%20EDA.ipynb)
